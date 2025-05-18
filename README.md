@@ -12,7 +12,7 @@ A simple web app to visualize Data Structures and Algorithms.
 - **Tailwind CSS** – Styling
 - **TypeScript** – Type safety
 
-## 📦 How to Use
+## 📦 How to Use :
 
 ```bash
 # Clone the repo
@@ -24,3 +24,4 @@ npm install
 
 # Run the development server
 npm run dev
+
